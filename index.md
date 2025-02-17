@@ -1,3 +1,8 @@
+---
+layout: profile
+title: "Home"
+---
+
 ### Biografi Singkat
 Mahasiswa semester 6 Manajemen Informasi Kesehatan di Sekolah Vokasi Universitas Gadjah Mada yang memiliki minat dalam sistem informasi kesehatan dan pengkodean penyakit. Antusias dalam mempelajari inovasi di bidang kesehatan untuk meningkatkan efisiensi dan kualitas layanan kesehatan.
 
