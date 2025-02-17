@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.menu {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  width: 270px;
+  background-color: #f1f1f1;
+}
+
+.menulink {
+  display: block;
+  color: #267CB9;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+}
+
+.menulink:hover {
+  font-weight: bold;
+  background-color: #069;
+  color: white;
+}
