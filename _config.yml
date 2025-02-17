@@ -1,0 +1,12 @@
+title: Iffah Khoirul Janah
+#logo:/assets/img/headshot_circle.png
+#description: Seorang mahasiswa semester 6 jurusan Manajemen Informasi Kesehatan di Sekolah Vokasi Universitas Gadjah Mada. Melalui pengalaman PKL dan organisasi, saya telah mengembangkan keterampilan kerja sama tim, komunikasi, dan kepemimpinan. Saya antusias untuk mempelajari hal-hal baru dan mengembangkan diri di berbagai bidang yang dapat membantu karir saya, serta meningkatkan keterampilan dan pengalaman saya.
+minima:
+  social_links:
+    - icon: github
+      url: "https://github.com/iffahkhr/iffahkhr"
+    - icon: instagram
+      url: "https://www.instagram.com/iffah_khoirul"
+    - icon: mail
+      url: "iffahkhoiruljanah@mail.ugm.ac.id"    
+theme: jekyll_theme_minimal
