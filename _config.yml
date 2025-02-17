@@ -1,8 +1,8 @@
-author:
-  name: "Iffah Khoirul Janah"
-  title: "Mahasiswa Manajemen Informasi Kesehatan, Universitas Gadjah Mada"
-  image: "/assets/profile.jpg"
-  cv_link: "/cv.pdf"
+title: Iffah Khoirul Janah
+logo: /assets/img/pasfoto.png
+description: Mahasiswa Manajemen Informasi Kesehatan, Universitas Gadjah Mada
+
+social_links:
   email: "mailto:iffahkhoiruljanah@mail.ugm.ac.id"
   instagram: "https://www.instagram.com/iffah_khoirul"
   github: "https://github.com/iffahkhr"
