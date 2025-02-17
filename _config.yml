@@ -1,12 +1,9 @@
 title: Iffah Khoirul Janah
-logo: /assets/img/pasfoto_circle.png
-description: Mahasiswa Manajemen Informasi Kesehatan Universitas Gadjah Mada
-minima:
-  social_links:
-    - icon: github
-      url: "https://github.com/iffahkhr/"
-    - icon: instagram
-      url: "https://www.instagram.com/iffah_khoirul"
-    - icon: mail
-      url: "iffahkhoiruljanah@mail.ugm.ac.id"    
+profile_image: "profile.jpg"
+description: Mahasiswa Manajemen Informasi Kesehatan 
+description: Universitas Gadjah Mada
+social:
+  email: "iffahkhoiruljanah@mail.ugm.ac.id"   
+  instagram: "https://www.instagram.com/iffah_khoirul"
+  github: "https://github.com/iffahkhr/"
 theme: jekyll-theme-minimal
