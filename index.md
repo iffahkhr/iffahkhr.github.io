@@ -12,7 +12,7 @@ Mahasiswa semester 6 Manajemen Informasi Kesehatan di Sekolah Vokasi Universitas
 
 ### Projek
 - [Project Day V](https://youtu.be/V4poqSnk9ts?si=aazMhMr9xYFhbNcq): Desain Interface HealthyApp
-- [Project Day IV](https://drive.google.com/drive/folders/1Fd1vbZiIYamvGO_1aOObVWLWefg8fi2D?usp=drive_link): Ketepatan Koding dalam Pembiayaan Kesehatan
+- [Project Day IV](https://linktr.ee/projectday4b): Ketepatan Koding dalam Pembiayaan Kesehatan
 - [Project Day III](https://youtu.be/NiYC8vAgj7Q?si=fjPwA6VRq6WQ2vaC): Desain Interface Rekam Medis Elektronik
 - [Project Day II](https://youtu.be/tCFcRvL3pcA?si=nAiqDeela6gJeO6k): Desain Tata Ruang Unit Kerja Rekam Medis
 - **Project Day I**: Solusi Permasalahan Ketidaktepatan Koding
