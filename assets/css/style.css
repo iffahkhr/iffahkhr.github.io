@@ -36,12 +36,16 @@ form {
     background-color: #f9f9f9;
 }
 
-input, select {
+input, select, textarea {
     width: 100%;
     padding: 8px;
     margin: 5px 0;
     border: 1px solid #ccc;
     border-radius: 4px;
+}
+
+textarea {
+    resize: vertical;
 }
 
 button {
