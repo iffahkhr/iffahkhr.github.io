@@ -22,5 +22,11 @@ permalink: /contact/
         <option value="Perempuan">Perempuan</option>
     </select><br><br>
 
+    <label for="subject">Judul Pesan:</label><br>
+    <input type="text" id="subject" name="subject" required><br><br>
+
+    <label for="message">Isi Pesan:</label><br>
+    <textarea id="message" name="message" rows="4" required></textarea><br><br>
+
     <button type="submit">Kirim</button>
 </form>
