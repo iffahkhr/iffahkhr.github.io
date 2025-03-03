@@ -27,8 +27,8 @@
 }
 
 .contact-container {
-    max-width: 500px;
-    margin: 50px auto;
+    max-width: 500px; 
+    margin: 50px auto; 
     padding: 20px;
     background-color: #f9f9f9;
     border-radius: 10px;
@@ -37,37 +37,37 @@
 }
 
 .contact-container h2 {
-    color: #333;
     text-align: center;
 }
 
-.contact-container form {
+.contact-form {
     display: flex;
     flex-direction: column;
-    gap: 15px;
     align-items: center;
+    gap: 10px;
+    width: 100%;
 }
 
-.contact-container label {
-    font-weight: bold;
+.contact-form label {
+    width: 100%;
     text-align: left;
-    width: 100%;
+    font-weight: bold;
 }
 
-.contact-container input,
-.contact-container select,
-.contact-container textarea {
+.contact-form input,
+.contact-form select,
+.contact-form textarea {
     width: 100%;
-    padding: 10px;
+    padding: 8px;
     border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #add8e6; 
 }
 
-.contact-container button {
+.contact-form button {
     background-color: #0077b5;
     color: white;
-    padding: 10px 15px;
+    padding: 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -75,6 +75,6 @@
     width: 100%;
 }
 
-.contact-container button:hover {
+.contact-form button:hover {
     background-color: #005f8d;
 }
