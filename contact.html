@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +15,7 @@
             margin: 0;
             font-family: Arial, sans-serif;
         }
-        
+
         .contact-form {
             width: 500px;
             padding: 20px;
@@ -36,8 +36,13 @@
             margin-top: 5px;
             border: 1px solid #ccc;
             border-radius: 5px;
-            background-color: #cce5ff; /* Warna biru muda */
-            box-sizing: border-box; /* Supaya padding tidak menambah ukuran input */
+            background-color: #cce5ff;
+            box-sizing: border-box; 
+            display: block;
+        }
+
+        textarea {
+            resize: vertical; 
         }
 
         button {
@@ -80,7 +85,7 @@
                 <label for="phone">Nomor Handphone:</label>
                 <input type="tel" id="phone" name="phone" pattern="[0-9]+" required placeholder="Masukkan nomor telepon">
 
-                <label for="subject">Judul Email:</label>
+                <label for="subject">Subjek:</label>
                 <input type="text" id="subject" name="subject" required>
 
                 <label for="message">Pesan:</label>
