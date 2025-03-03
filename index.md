@@ -24,4 +24,5 @@ Mahasiswa semester 6 Manajemen Informasi Kesehatan di Sekolah Vokasi Universitas
 - [Juara I](https://www.instagram.com/p/DC_KFYxzCpP/?img_index=1&igsh=eHppOHp0NWYxb3Rn) Lomba Cerdas Cermat Medical Record Olympic (MEDRO) Universitas Esa Unggul tahun 2024
 - [Juara III](https://www.instagram.com/p/C9mM44hSlCu/?img_index=3&igsh=MWhreWQwcnh1NGkybQ==) Clever Coding of Medical Record Competition (CLECOMERCO) Poltekkes Kemenkes Yogyakarta tahun 2024
 
-<a href="/contact" class="contact-link">Hubungi Saya</a>
+[Hubungi Saya](contact.html)
+
