@@ -25,56 +25,46 @@
   background-color: #069;
   color: white;
 }
-
-.contact-container {
-    max-width: 500px; 
-    margin: 50px auto; 
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
-
-.contact-container h2 {
-    text-align: center;
+#005f8d;
 }
 
 .contact-form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
 }
 
-.contact-form label {
-    width: 100%;
-    text-align: left;
+label {
+    display: block;
+    margin-top: 10px;
     font-weight: bold;
 }
 
-.contact-form input,
-.contact-form select,
-.contact-form textarea {
+input, textarea, select {
     width: 100%;
     padding: 8px;
+    margin-top: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #add8e6; 
+    background-color: #cce5ff; 
 }
 
-.contact-form button {
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
     background-color: #0077b5;
     color: white;
-    padding: 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    width: 100%;
 }
 
-.contact-form button:hover {
-    background-color: #005f8d;
+button:hover {
+    background-color: #005582;
 }
