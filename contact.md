@@ -1,12 +1,6 @@
----
-layout: page
-title: Contact Me
-permalink: /contact/
----
-
 <div class="contact-container">
     <h2>Contact Me</h2>
-    <form action="proses.php" method="POST">
+    <form class="contact-form" action="proses.php" method="POST">
         <label for="name">Nama:</label>
         <input type="text" id="name" name="name" required>
 
