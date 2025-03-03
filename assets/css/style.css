@@ -45,13 +45,23 @@
     text-align: center;
 }
 
-.contact-form input, .contact-form select, .contact-form textarea {
+.contact-form label {
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.contact-form input, 
+.contact-form select, 
+.contact-form textarea {
     width: 100%;
     padding: 10px;
-    margin-top: 10px;
+    margin-top: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
+    background-color: #f0f8ff; 
 }
 
 .contact-form button {
@@ -75,10 +85,4 @@
     color: #333;
     margin-bottom: 10px;
     font-size: 22px;
-}
-
-@media (max-width: 600px) {
-    .contact-form {
-        width: 90%;
-    }
 }
